@@ -1,4 +1,3 @@
-# Text_to_Speech
 # RoboSpeaker - Text-to-Speech Application
 
 RoboSpeaker is a simple Text-to-Speech (TTS) application built using Python and the Tkinter library for the graphical user interface. This application allows users to input text, and the integrated text-to-speech engine will convert the entered text into spoken words.
